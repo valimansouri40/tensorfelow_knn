@@ -1,0 +1,16 @@
+{
+  "name": "knn-tf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.1.17",
+    "lodash": "^4.17.15",
+    "shuffle-seed": "^1.1.6"
+  }
+}
